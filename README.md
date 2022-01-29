@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @joashv
+- 👋 Hi, I’m Joash Vedantham
 - 👀 I’m interested in functional programming
 - 🌱 I’m currently learning Haskell
 - 💞️ I’m looking to collaborate on projects in Haskell
